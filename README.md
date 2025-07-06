@@ -17,7 +17,7 @@ https://expressjs.com/pt-br/5x/api.html
 import requests
 
 #URL da página
-url_base = 'http://localhost:3000&#39;
+url_base = 'http://localhost:3000';
 
 ##Input para ser pesquisado
 #produto_nome = input('Informe o nome da pessoa: ')
